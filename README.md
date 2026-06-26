@@ -9,5 +9,3 @@
 - [ ] Push to the remote repository
 - [ ] Submit a pull request
 
-### Created By : Anjana
-### Created At : 15th Sept, 2025
